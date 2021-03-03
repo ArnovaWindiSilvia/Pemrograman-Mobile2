@@ -21,10 +21,10 @@ class Person{
 
 // fungsi main
 main(){
-  var Dinda = new Person();
-  Dinda.setName("Dinda Mianza");
-  Dinda.setAddress("Medan");
+  var Windi = new Person();
+  Windi.setName("Arnova Windi");
+  Windi.setAddress("Medan");
 
-  print("Nama: ${Dinda.getName()}");
-  print("Alamat: ${Dinda.getAddress()}");
+  print("Nama: ${Windi.getName()}");
+  print("Alamat: ${Windi.getAddress()}");
 }
