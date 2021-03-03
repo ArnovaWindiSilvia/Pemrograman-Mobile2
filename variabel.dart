@@ -1,7 +1,7 @@
 void main(){
     // membaut variabel dengan tipe data
-    String nama = "Dinda Mianza";
-    int umur = 19;
+    String nama = "Arnova Windi";
+    int umur = 20;
     double tinggi = 160;
     bool isMenikah = false;
 
